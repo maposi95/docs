@@ -3,7 +3,7 @@ title: Viewing your subscriptions
 intro: 'To understand where your notifications are coming from and your notifications volume, we recommend reviewing your subscriptions and watched repositories regularly.'
 redirect_from:
   - /articles/subscribing-to-conversations/
-  - /articles/unsubscribing-from-conversations/
+  - /articles/unlsubscribing-from-conversations/
   - /articles/subscribing-to-and-unsubscribing-from-notifications
   - /articles/listing-the-issues-and-pull-requests-youre-subscribed-to
   - /articles/watching-repositories/
